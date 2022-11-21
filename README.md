@@ -25,7 +25,7 @@
 
 # Deploy to Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/_1ecED)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/uQpNbz)
 
 #### Hard Way
 ```bash
